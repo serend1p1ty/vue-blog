@@ -46,7 +46,7 @@ export default {
             scrollTop: 0,
             iconList: [{
                 name: 'github',
-                href: 'https://github.com/BUPT-HJM',
+                href: 'https://github.com/serend1p1ty',
             }],
         };
     },
